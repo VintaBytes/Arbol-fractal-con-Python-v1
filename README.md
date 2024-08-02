@@ -2,6 +2,12 @@
 
 Este script utiliza la librería `turtle` en Python para dibujar un árbol fractal. El árbol se genera utilizando un sistema de L (Lindenmayer system), un método de modelado fractal que aplica reglas recursivas para crear formas complejas.
 
+<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
+<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></span>
+
+## Resultado
+<img src="https://github.com/user-attachments/assets/3b66dfad-38f1-4421-9e88-afa9b2c3f18d" width="640px">
+
 ## Explicación del Código
 
 ### Importaciones
@@ -74,6 +80,3 @@ exitonclick()
 - `y(50, 13)`: Llama a la función `y` con un tamaño inicial de 50 y nivel de recursión de 13.
 - `exitonclick()`: Espera un clic para cerrar la ventana del dibujo.
 
----
-
-Con esta explicación, el lector del `README.md` tendrá una comprensión clara de cómo el código genera un árbol fractal utilizando la librería `turtle` y la recursión.
