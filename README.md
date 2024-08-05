@@ -8,6 +8,8 @@ Este script utiliza la librería `turtle` en Python para dibujar un árbol fract
 ## Resultado
 <img src="https://github.com/user-attachments/assets/3b66dfad-38f1-4421-9e88-afa9b2c3f18d" width="320px">
 
+---
+
 ## Explicación del Código
 
 ### Importaciones
